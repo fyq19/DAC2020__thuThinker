@@ -1,1 +1,12 @@
 
+## hardware
+
+|      |  info                                              |
+| -------- | ----------------------------------------------------- |
+| 2018DAC 媒体报道 | https://zhuanlan.zhihu.com/p/39752649                |
+| 2019DAC 媒体报道 | https://www.jiqizhixin.com/articles/2019-06-27-12            |
+| 2018DAC 官方链接 | http://www.cse.cuhk.edu.hk/~byu/2018-DAC-SDC/index.html          |
+| 2019DAC 官方链接 | http://www.cse.cuhk.edu.hk/~byu/2019-DAC-SDC/index.html          |
+| 2019DAC fpga访谈 | https://youmeiwen.cn/p/1548630          |
+| 2020DAC 官方repo | https://github.com/jgoeders/dac_sdc_2020 |
+| 2020DAC 官方网页 | https://dac-sdc-2020.groups.et.byu.net/doku.php |
