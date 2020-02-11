@@ -13,7 +13,13 @@
 |   | |
 |   | |
 |   | |
+|   | |
 | 2019DAC 第一名开源项目 | https://github.com/TomG008/SkyNet |
 | 2019DAC 第二名开源项目 |https://github.com/Bebove/DAC |
 | 2019DAC 第三名开源项目 |https://github.com/fpgasystems/spooNN |
-
+|   | |
+|   | |
+|   | |
+|   | |
+| 2018DAC 第一名开源项目 | https://github.com/Bebove/DAC2018-TGIIF |
+| 2018DAC 第三名开源项目 |https://github.com/onioncc/iSmartDNN |
