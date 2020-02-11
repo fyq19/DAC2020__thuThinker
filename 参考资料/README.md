@@ -10,3 +10,10 @@
 | 2019DAC fpga访谈 | https://youmeiwen.cn/p/1548630          |
 | 2020DAC 官方repo | https://github.com/jgoeders/dac_sdc_2020 |
 | 2020DAC 官方网页 | https://dac-sdc-2020.groups.et.byu.net/doku.php |
+
+|   |
+|   |
+|   |
+| 2019DAC 第一名开源项目 | https://github.com/TomG008/SkyNet |
+| 2019DAC 第二名开源项目 |https://github.com/Bebove/DAC |
+
