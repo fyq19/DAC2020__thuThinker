@@ -23,3 +23,6 @@
 |   | |
 | 2018DAC 第一名开源项目 | https://github.com/Bebove/DAC2018-TGIIF |
 | 2018DAC 第三名开源项目 |https://github.com/onioncc/iSmartDNN |
+##
+## 解释
+* Bitstream：Programming an FPGA is the process of loading a Bitstream into the FPGA.
